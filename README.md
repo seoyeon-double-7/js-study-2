@@ -1,6 +1,5 @@
-# js-study-2
-
 ##  JS Coding Study Club
+[![wakatime](https://wakatime.com/badge/user/09a0a224-d5db-47f4-9ac9-b0e42835f91a/project/1bf2d942-b694-4eec-9e84-1b60da53c215.svg)](https://wakatime.com/badge/user/09a0a224-d5db-47f4-9ac9-b0e42835f91a/project/1bf2d942-b694-4eec-9e84-1b60da53c215)
 > #### 2022년 **h1 코딩 스터디**입니다.  
 > <img src="https://user-images.githubusercontent.com/83990943/155077405-5d0eaecf-9ed8-42d7-8dc5-2eda6bd1a0e4.png" width="200px">
 ---
